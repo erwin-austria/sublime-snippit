@@ -1,0 +1,16 @@
+<snippet>
+	<content><![CDATA[
+
+	Plugin Name:${1:this}  
+	Plugin URI:${2:this}
+	Description:${3:this}
+	Author:${4:this}
+	Author URI: ${5:this} 
+	Version: ${6:this} 
+	
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>plugin</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
